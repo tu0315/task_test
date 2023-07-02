@@ -64,3 +64,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## 目的
+Laravel習得のため、まずは書いて慣れる
+
+## 参考資料
+PHPからLaravelまで サーバーサイドをとことんやってみよう【初心者から脱初心者へ】【わかりやすさ最重視】 | Udemy https://www.udemy.com/course/phpbeginnertolaravel/
+【github】remote: Invalid username or password.の解決方法 - Qiita https://qiita.com/mumucochimu/items/da6b392568b0d8d21d7d
